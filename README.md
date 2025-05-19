@@ -1,4 +1,4 @@
-## Hi there 👋
+#
 Step into the enriching world of Dr. Sati Shankar, a renowned scholar and insightful author. His work beautifully weaves together the profound wisdom of the Vedas, the intricate knowledge systems of India, and the fascinating realms of mind and brain sciences.
 
 Honored with the Wagle Gold Medal and BHU Gold Medal, and a Fellow of the Royal Asiatic Society, Dr. Shankar masterfully bridges the ancient and the modern, the philosophical and the scientific. His background in Mathematical Decision Sciences and Complex Systems adds a unique dimension to his writing, offering a fresh perspective on timeless wisdom.
