@@ -1,17 +1,7 @@
 #
-Step into the enriching world of Dr. Sati Shankar, a renowned scholar and insightful author. His work beautifully weaves together the profound wisdom of the Vedas, the intricate knowledge systems of India, and the fascinating realms of mind and brain sciences.
-
-Honored with the Wagle Gold Medal and BHU Gold Medal, and a Fellow of the Royal Asiatic Society, Dr. Shankar masterfully bridges the ancient and the modern, the philosophical and the scientific. His background in Mathematical Decision Sciences and Complex Systems adds a unique dimension to his writing, offering a fresh perspective on timeless wisdom.
-
-Here you'll find insightful explorations of the Vedas and the Bhagavad Gita, interwoven with contemporary perspectives from Cognitive Neuroscience, Synergetics, and Artificial Intelligence. Drawing from the depths of Indian Philosophy, including Nyaya, Samkhya, and Ayurveda, Dr. Shankar's writings offer a holistic understanding of human experience.
-
-This portal invites you to delve into a diverse collection of his work, from the ancient secrets of the Rig Veda and Ayurveda to the complexities of Neuropsychology and Philosophy of Mind. Whether you're drawn to the wisdom of ancient scriptures or the mysteries of the human mind, you'll find something to inspire and enlighten.
-
-Embark on a journey of discovery, where ancient wisdom meets modern science, and explore the profound connections that weave together the cosmos, consciousness, and life itself.
-
-<!--
-**techgsfn/techgsfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ORCID https://orcid.org/0000-0003-4638-1745
+ISNI: https://isni.org/isni/0000000527279715
+www.satishankar.in
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
